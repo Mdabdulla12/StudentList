@@ -1,0 +1,9 @@
+1. Student Name: Required.
+2. Date Of Birth: Required , Student get must be greater than 3 years.
+3. Gender: Required.
+4. Father Name: Required.
+5. Mother Name: Required.
+6. Email Id: Required, Valid Email (eg. abccde@domail.com)
+7. Phone Number: Required, Valid Number (10 digit.)
+8. Address: The address of the student. Required
+
